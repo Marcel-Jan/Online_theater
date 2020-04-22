@@ -8,3 +8,6 @@ We wilden wel met elkaar blijven spelen. Dus zijn we gaan improviseren. Letterli
 
 Op een gegegven moment kwam ik op het idee van corona theater met korte beschrijvingen van personages en slechts 1 of 2 geheimen. Dat is het verhaal van de Abel Plesmantoren geworden:
 https://github.com/Marcel-Jan/Online_theater/blob/master/plesmantoren_informatie.MD
+
+
+Alle inhoud is Creative Commons.
