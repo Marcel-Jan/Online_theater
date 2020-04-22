@@ -7,6 +7,7 @@ Jullie zijn bewoners van een appartementencomplex de Abel Plesmantoren in een fi
 In deze improvisatie is je webcambeeld gelijk aan je zichtbaarheid op je balkon. Ben je buiten beeld, dan ben je niet op je balkon en visa versa.
 
 Je groep bestaat uit 1 regisseur en een aantal spelers. Elke speler kiest een personage uit de lijst hieronder. Ze hoeven niet allemaal gespeeld te worden. Je geeft je keuze door aan de regisseur en die mailt of appt een of meer geheimen die de personages voor elkaar hebben.
+https://github.com/Marcel-Jan/Online_theater/blob/master/plesmantoren_geheimen.MD
 
 Je spelers moeten tijdens het spel er achter komen welke geheimen ze voor elkaar hebben. 
 
