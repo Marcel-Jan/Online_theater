@@ -3,6 +3,8 @@
 ## Inleiding
 Jullie zijn bewoners van een appartementencomplex de Abel Plesmantoren in een fictieve Nederlandse stad. Dat ging zijn gangetje, maar toen kwam ineens de corona crisis. Jullie zitten allemaal nu thuis. Je komt elkaar alleen af en toe tegen vanaf het balkon.
 
+![Screenshot](/plesmantoren1.PNG)
+
 ## Hoe deze improvisatie in zijn werk gaat.
 In deze improvisatie is je webcambeeld gelijk aan je zichtbaarheid op je balkon. Ben je buiten beeld, dan ben je niet op je balkon en visa versa.
 
