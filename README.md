@@ -2,7 +2,7 @@
 Improvisatie via video conferencing
 
 # Inleiding
-We hadden met onze spelers net een toneelgroep gevormd: Hein en de Ruitenwissers. We hadden een oefenzaal, een regisseur, social media pressence en een script. Na twee keer oefenen begon de corona crisis. En daar zit je dan thuis je teksten te leren. Dus niet, hè. Want wanneer komt het ooit op de planken? Juni? September? 2022?
+We hadden met onze spelers net een toneelgroep gevormd: Hein en de Ruitenwissers (https://www.facebook.com/watch/Hein-en-de-Ruitenwissers-103544317956772/). We hadden een oefenzaal, een regisseur, social media pressence en een script. Na twee keer oefenen begon de corona crisis. En daar zit je dan thuis je teksten te leren. Dus niet, hè. Want wanneer komt het ooit op de planken? Juni? September? 2022?
 
 We wilden wel met elkaar blijven spelen. Dus zijn we gaan improviseren. Letterlijk. Het boek Nachtgasten was leuke inspiratie (http://nachtgasten.nl/Home.html). Maar het was wel veel leeswerk en niet iedereen had er tijd voor.
 
