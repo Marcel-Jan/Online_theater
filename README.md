@@ -1,4 +1,4 @@
-# Online_theater
+# Lockdown theater
 Improvisatie via video conferencing
 
 # Inleiding
