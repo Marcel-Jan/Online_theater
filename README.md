@@ -10,4 +10,4 @@ Op een gegegven moment kwam ik op het idee van corona theater met korte beschrij
 https://github.com/Marcel-Jan/Online_theater/blob/master/plesmantoren_informatie.MD
 
 
-Alle inhoud m.b.t. Online theater is Creative Commons.
+Alle inhoud m.b.t. Lockdown theater is Creative Commons.
