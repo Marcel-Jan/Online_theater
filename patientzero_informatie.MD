@@ -10,6 +10,7 @@ Wie uiteindelijk de veroorzaker van de uitbraak in Negenhoven was, daar kunnen w
 
 ## Licentie
 Creative Commons - Naamsvermelding-GelijkDelen 4.0 Internationaal (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/deed.nl
 
 ## De personages
 
