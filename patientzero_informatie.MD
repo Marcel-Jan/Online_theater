@@ -34,7 +34,7 @@ Peter en zijn vrouw Sanne gaan elk jaar op wintersport op hun vaste adres in Val
 ### Sanne
 35 jaar. De vrouw van Peter. Dat begon na Boer zoekt Vrouw. Peter was die ene hork dat jaar, maar Sanne viel als een blok voor hem. Runt nu o.a. de boerderijwinkel.
 
-### Luuk Evers
+### Luuk
 Zoon van Peter uit een vorig huwelijk. 19 jaar oud.
 Studeert in Wageningen. Komt in het weekend thuis voor de was. Hij is niet mee geweest naar Val di Mello, want hij moest nog leren voor tentamens. Runde de boerderijwinkel toen zijn ouders weg waren. Alleen Dylan is een regelmatige klant omdat hij op versheid staat voor zijn slagerij.
 
