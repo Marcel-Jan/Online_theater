@@ -2,6 +2,10 @@
 Het is nog het begin van de Corona crisis. Eind februari is er een uitbraak geweest van het Sars-Cov-2 virus in het gehucht Negenhoven. Het RIVM probeert zo snel mogelijk te achterhalen wie de bron was, zodat de mensen met wie zij contact hadden kunnen worden nagetrokken en tot containment kan worden over gegaan. Ze heeft daarom dit videogesprek georganiseerd.
 
 ## Hoe deze improvisatie in zijn werk gaat
+Je groep bestaat uit 1 regisseur en een aantal spelers. Elke speler kiest een personage uit de lijst hieronder. Ze hoeven niet allemaal gespeeld te worden, maar je hebt in ieder geval wel een Dr. Naomi Kuijpers nodig om het gesprek te leiden. 
+
+Je geeft je keuze door aan de regisseur en die mailt of appt een of meer geheimen die de personages voor elkaar hebben. 
+
 Wie uiteindelijk de veroorzaker van de uitbraak in Negenhoven was, daar kunnen we tijdens het spelen achter komen. Maar niemand staat echt te popelen om zich aan te melden als Patient Zero.
 
 
@@ -44,4 +48,4 @@ Is niet mee geweest is op wintersport.
 Hij is de enige die onlangs vreselijk ziek is geweest. Hij is zelfs vier dagen opgenomen geweest in het ziekenhuis in de stad. Hij kon zijn winkel daarom bijna twee weken niet runnen. Zijn voorraden kon hij weg gooien en financieel loopt zijn winkel nu op het randje.
 
 
-### Disclaimer: alle karakters zijn bedacht en niet gebaseerd op werkelijke personen. Enige overeenkomst berust op toeval.
+######  Disclaimer: alle karakters zijn bedacht en niet gebaseerd op werkelijke personen. Enige overeenkomst berust op toeval.
