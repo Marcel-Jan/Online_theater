@@ -1,5 +1,5 @@
-# Lockdown theater 2: Op zoek naar patient zero
-Het is nog het begin van de Corona crisis. Eind februari is er een uitbraak geweest van het Sars-Cov-2 virus in het gehucht Negenhoven. Het RIVM probeert zo snel mogelijk te achterhalen wie de bron was, zodat de mensen met wie zij contact hadden kunnen worden nagetrokken en tot containment kan worden over gegaan. Ze heeft daarom dit videogesprek georganiseerd.
+# Lockdown theater 2: Op zoek naar Patient Zero
+Het is nog het begin van de Corona crisis. Eind februari is er een uitbraak geweest van het Sars-Cov-2 virus in het gehucht Negenhoven. Het RIVM probeert zo snel mogelijk te achterhalen wie de bron was (de zogenaamde Patient Zero), zodat de mensen met wie zij contact hadden kunnen worden nagetrokken en tot containment kan worden over gegaan. Ze heeft daarom dit videogesprek georganiseerd.
 
 ## Hoe deze improvisatie in zijn werk gaat
 Je groep bestaat uit 1 regisseur en een aantal spelers. Elke speler kiest een personage uit de lijst hieronder. Ze hoeven niet allemaal gespeeld te worden, maar je hebt in ieder geval wel een Dr. Naomi Kuijpers nodig om het gesprek te leiden. 
