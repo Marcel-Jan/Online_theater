@@ -14,8 +14,8 @@ https://github.com/Marcel-Jan/Online_theater/blob/master/plesmantoren_geheimen.M
 Je spelers moeten tijdens het spel er achter komen welke geheimen ze voor elkaar hebben. 
 
 ## Licentie
-Creative Commons.
-
+Creative Commons - Naamsvermelding-GelijkDelen 4.0 Internationaal (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/deed.nl
 
 ## De personages
 
