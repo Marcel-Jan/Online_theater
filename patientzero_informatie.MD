@@ -8,6 +8,8 @@ Je geeft je keuze door aan de regisseur en die mailt of appt een of meer geheime
 
 Wie uiteindelijk de veroorzaker van de uitbraak in Negenhoven was, daar kunnen we tijdens het spelen achter komen. Maar niemand staat echt te popelen om zich aan te melden als Patient Zero.
 
+## Licentie
+Creative Commons - Naamsvermelding-GelijkDelen 4.0 Internationaal (CC BY-SA 4.0)
 
 ## De personages
 
