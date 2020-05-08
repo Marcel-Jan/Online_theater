@@ -17,7 +17,7 @@ Nummer | Titel | Informatie | Geheimen
 ------ | ----- | ---------- | ---------
 1 | Lockdown in de Abel Plesmantoren | https://github.com/Marcel-Jan/Online_theater/blob/master/plesmantoren_informatie.MD | https://github.com/Marcel-Jan/Online_theater/blob/master/plesmantoren_geheimen.MD
 2 | Op zoek naar Patient Zero | https://github.com/Marcel-Jan/Online_theater/blob/master/patientzero_informatie.MD | work in progress
-
+3 | Piraten! | https://github.com/Marcel-Jan/Online_theater/blob/master/piraten_informatie.MD | work in progress
 
 
 Alle inhoud m.b.t. Lockdown theater is Creative Commons - Naamsvermelding-GelijkDelen 4.0 Internationaal (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/deed.nl
