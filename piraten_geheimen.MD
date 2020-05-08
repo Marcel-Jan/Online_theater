@@ -9,7 +9,8 @@ De regisseur verstuurt het geheim van een personage alleen naar degene die hem o
 
 ### Benjamin Hornigold
 * Het loopt financieel niet erg goed met jouw operatie. Je hebt erg weinig prijzen weten te veroveren de laatste tijd. Je kunt daarom binnenkort weggestemd worden als kapitein van je schip.
-* Jennings en zijn bemanning heeft deze laatste overwinning bereikt met meer geluk dan wijsheid. Je vindt bovendien dat er excessief geweld gebruikt is. Er vielen meerdere doden bij de verovering. Dat zou jou niet snel overkomen.
+* Jennings is jouw rivaal. Hij heeft een jaar geleden schip van je veroverd.
+* Jennings en zijn pupillen hebben deze laatste overwinning bereikt met meer geluk dan wijsheid. Je vindt bovendien dat er excessief geweld gebruikt is. Er vielen meerdere doden bij de verovering. Dat zou jou niet snel overkomen.
 
 ### Nicholas Trott
 * Je werd door de koning van Engeland gouverneur gemaakt van dit godvergeten eiland. Nu heb je een mooie gelegenheid om er beter van te worden. Wat kan jou het schelen dat veel van deze piraten de koning willen afzetten?
