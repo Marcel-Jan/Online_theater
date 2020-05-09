@@ -70,7 +70,7 @@ If you are the director and you notice the play hasn't gotten anywhere for a whi
 
 Nr. | Title | Information | Secrets
 ------ | ----- | ---------- | ---------
-3 | Pirates! | Work in progress | Work in progress
+3 | Pirates! | [pirates_information_EN] | Work in progress
 
 ## License
 All content for Lockdown theater is Creative Commons - Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/
