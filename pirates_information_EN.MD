@@ -5,10 +5,10 @@ You are on the island Nassau in the Caribean. You have started a republic of pir
 Here ends the historically accurate part. (I've taken some liberties to make the story a little more interesting.)
 
 We are in the year 1717. Henry Jennings and his crew managed to gain a large English sloop yesterday. With this extention of the pirate fleet you rule the Caribean completely. Your Republic of Pirates is pretty safe now.
-Tonight Jennings wil hold a large party on the beach of Nassau. There will be rum. Lots of it.
+Tonight Jennings wil hold a large party on the beach of Nassau. There will be rum. And lots of it.
 
 ## How this improvisation works (short version)
-Your group has one director and multiple players. Every player is assigned a character from the list below or choses one and tells the director. You don't need all characters. The director sends each player their own secrets.
+Your group has one director and multiple players. Every player is assigned a character from the list below or choses one and tells the director. You don't need all characters. The director sends each player their own secrets. There also is a bonus secret that the director can reveil halfway.
 
 ## Licence
 All content for Lockdown theater is Creative Commons - Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/
