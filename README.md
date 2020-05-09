@@ -47,14 +47,24 @@ We had a room to practice in, a director, social media presence and a script. Af
 
 We wanted to keep playing via video conferencing, but we needed something else. So we started to improvise. Literally. I had a book with improv techniques called "Nachtgasten" (only available in Dutch) and that was fun. But it was a lot of reading and not everyone had time for that.
 
-So one time I came up with a short form called Lockdown Theater with enough characters for our group of 7 to play. And per character only a short description and only one or two secrets. And that became the first improvisation theater story: Lockdown on the Tasman Tower.
+So one time I came up with a short form called Lockdown Theater with enough characters for our group of 7 to play. And per character only a short description and only one or two secrets. And that became the first improvisation theater story: Lockdown on the Tasman Tower. After a while everyone got really sick of corona-related stories and that's when I wrote Pirates!.
 
 ## How does it work?
+### Characters
+Every story has seven or more characters. One person in your group is the director, who can also play one of the characters (or come in a little later when everyone starts getting the hang of things). We've also had two directors who 
+
+### The director
+The director either assigns the characters to the players or sends a list of characters after which the players send back their preferred character to play. As the director you send each player their own secrets.
+
+### Secrets
+The secrets are meant to spice the story up and keep it going. They get reveiled during the play. Your character's secret might be that you are madly in love with another character. Or that one character had done something rotten to you in her youth and you have never forgiven her. Or your secret might be that you want your teams mission to fail out of spite of the commander or that it was you who totalled the car of another player yesterday and we are slowly getting that during the play. It's also always fun to discuss who had what secret afterwards.
+
+If you are the director and you notice the play hasn't gotten anywhere for a while, you can ask one of the players to reveil one of their secrets right away.
 
 
 ## Stories
 
-Nummer | Titel | Informatie | Geheimen
+Nr. | Title | Information | Secrets
 ------ | ----- | ---------- | ---------
 3 | Pirates! | Work in progress | Work in progress
 
