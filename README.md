@@ -70,7 +70,7 @@ If you are the director and you notice the play hasn't gotten anywhere for a whi
 
 Nr. | Title | Information | Secrets
 ------ | ----- | ---------- | ---------
-3 | Pirates! | https://github.com/Marcel-Jan/Online_theater/blob/master/pirates_information_EN | https://github.com/Marcel-Jan/Online_theater/blob/master/pirates_secrets_EN.MD
+3 | Pirates! | https://github.com/Marcel-Jan/Online_theater/blob/master/pirates_information_EN.MD | https://github.com/Marcel-Jan/Online_theater/blob/master/pirates_secrets_EN.MD
 
 ## License
 All content for Lockdown theater is Creative Commons - Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/
