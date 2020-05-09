@@ -8,6 +8,7 @@ Improvisatie via video conferencing
     *   [Licentie](#licentie)
 * [English](#english)
     *   [Introduction](#introduction)
+    *   [How does it work?](#how-does-it-work)
     *   [Stories](#stories)
     *   [License](#license)
 
