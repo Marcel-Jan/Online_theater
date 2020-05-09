@@ -51,13 +51,17 @@ So one time I came up with a short form called Lockdown Theater with enough char
 
 ## How does it work?
 ### Characters
-Every story has seven or more characters. One person in your group is the director, who can also play one of the characters (or come in a little later when everyone starts getting the hang of things). We've also had two directors who 
+Every story has seven or more characters. If your group is smaller than seven, it's usually not necessary to have all characters. One person in your group is the director, who can also play one of the characters (or come in a little later when everyone starts getting the hang of things).
 
 ### The director
-The director either assigns the characters to the players or sends a list of characters after which the players send back their preferred character to play. As the director you send each player their own secrets.
+As a director it's your job to keep the story interesting. Make sure players aren't going in circles. And maybe ask one of the players who has been quiet for a while to join in. Usually video conferencing has a chat function, by which you can send acting directions to everyone.
+
+At the beginning, you as the director either assign the characters to the players. You can also send the list of characters to everyone, after which the players send back their preferred character to play. I usually do this in a first come, first serve manner. If everyone has a role, you send each player their own secrets.
+
+If you are in a large group, you can have multiple directors who make sure the story keeps on rolling.
 
 ### Secrets
-The secrets are meant to spice the story up and keep it going. They get reveiled during the play. Your character's secret might be that you are madly in love with another character. Or that one character had done something rotten to you in her youth and you have never forgiven her. Or your secret might be that you want your teams mission to fail out of spite of the commander or that it was you who totalled the car of another player yesterday and we are slowly getting that during the play. It's also always fun to discuss who had what secret afterwards.
+The secrets are meant to spice the story up and keep it going. They get reveiled during the play. Your character's secret might be that you are madly in love with another character. Or that one character has done something rotten to you in her youth and you have never forgiven her. Or your secret might be that you want your teams mission to fail out of spite of the commander or that it was you who totalled the car of another player yesterday and we are slowly getting that during the play. It's always fun to discuss who had what secret afterwards to see if everyone got that. 
 
 If you are the director and you notice the play hasn't gotten anywhere for a while, you can ask one of the players to reveil one of their secrets right away.
 
